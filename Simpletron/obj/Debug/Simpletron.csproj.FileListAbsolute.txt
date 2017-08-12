@@ -1,0 +1,6 @@
+c:\users\tuan\documents\visual studio 2013\Projects\Simpletron\bin\Debug\Simpletron.exe.config
+c:\users\tuan\documents\visual studio 2013\Projects\Simpletron\bin\Debug\Simpletron.exe
+c:\users\tuan\documents\visual studio 2013\Projects\Simpletron\bin\Debug\Simpletron.pdb
+c:\users\tuan\documents\visual studio 2013\Projects\Simpletron\obj\Debug\Simpletron.csprojResolveAssemblyReference.cache
+c:\users\tuan\documents\visual studio 2013\Projects\Simpletron\obj\Debug\Simpletron.exe
+c:\users\tuan\documents\visual studio 2013\Projects\Simpletron\obj\Debug\Simpletron.pdb
